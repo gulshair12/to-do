@@ -10,12 +10,12 @@ Features
 
 # What I Learned
 
-Throughout the development of this project, I had the opportunity to delve into various aspects of web development and improve my skills. Here are some key lessons I learned:
-I gained proficiency in using Tailwind CSS to create a sleek and modern user interface. The utility-first approach of Tailwind made styling efficient and allowed me to maintain a consistent design.
- I learned how to create modular components and pass data between them using props. This made the code more organized and easier to maintain.
- I implemented routing in the project, enabling smooth navigation between different sections of the website. This was crucial for providing an excellent user experience.
- I utilized the useState hook to manage the state of the application. This allowed for dynamic updates and interactions without the need for complex state management libraries.
- I used JavaScript's map function to render lists of tasks dynamically, making the code more scalable and flexible.
+Throughout the development of this project, I had the opportunity to delve into various aspects of web development and improve my skills. Here are some key lessons I learned:\
+I gained proficiency in using Tailwind CSS to create a sleek and modern user interface. The utility-first approach of Tailwind made styling efficient and allowed me to maintain a consistent design.\
+ I learned how to create modular components and pass data between them using props. This made the code more organized and easier to maintain.\
+ I implemented routing in the project, enabling smooth navigation between different sections of the website. This was crucial for providing an excellent user experience.\
+ I utilized the useState hook to manage the state of the application. This allowed for dynamic updates and interactions without the need for complex state management libraries.\
+ I used JavaScript's map function to render lists of tasks dynamically, making the code more scalable and flexible.\
 
 # Getting Started
 
