@@ -1,4 +1,4 @@
- To-Do
+# To-Do
 
 To-Do is a simple, user-friendly website that allows you to manage your daily tasks and stay organized. This project was built using React and styled with Tailwind CSS, making it not only functional but also visually appealing.
 Features
@@ -8,7 +8,7 @@ Features
     Intuitive user interface for a seamless task management experience.
     Responsive design for a consistent user experience on various devices.
 
- What I Learned
+# What I Learned
 
 Throughout the development of this project, I had the opportunity to delve into various aspects of web development and improve my skills. Here are some key lessons I learned:
 
@@ -22,7 +22,7 @@ Throughout the development of this project, I had the opportunity to delve into 
 
     Mapping Arrays of Objects: I used JavaScript's map function to render lists of tasks dynamically, making the code more scalable and flexible.
 
- Getting Started
+# Getting Started
 
 To get started with To-Do, follow these steps:
 
